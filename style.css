@@ -1,0 +1,91 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+
+
+
+.header-section {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 0px;
+
+}
+
+.header-section__title {
+    margin-top: 5px;
+    
+}
+
+.header-section__menu {
+    margin-top: 5px;
+}
+
+.food-card{
+    text-align:center;
+    margin:0px;
+}
+
+.food-card__1,
+.food-card__2,
+.food-card__3,
+.food-card__4{
+    display:inline-block;
+    width:200px;
+    border:3px solid black;
+    
+    margin-top: 10px;
+    
+}
+
+.food-card img{
+    width:200px;
+    height:350px;
+}
+
+.food-card p{
+    padding:5px;
+}
+
+.food-card button{
+    background-color:black;
+    color:white;
+    border:none;
+    padding:10px;
+    
+    width: 100px;
+}
+
+
+.contact {
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin-top: 10px;
+    padding: 20px;
+}
+
+.contact-table {
+    margin: auto;
+}
+
+.contact input {
+    padding: 5px;
+    margin: 5px;
+    width: 200px;
+}
+
+.send {
+    background-color: yellow;
+    border: none;
+    padding: 5px;
+}
+
+.send{
+    width: 30%;
+}
